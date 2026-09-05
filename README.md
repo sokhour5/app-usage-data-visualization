@@ -4,7 +4,7 @@ A radial data visualization built with Processing to explore and represent daily
 
 ## Preview
 
-Project preview coming soon.
+![App Usage Data Visualization](app-usage-preview.png)
 
 ## Features
 
