@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Processing / Java
+*.class
+
+# IDE files
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.log
