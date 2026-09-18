@@ -16,7 +16,7 @@ void setup() {
   cy = height * 0.52;
   maxR = min(width, height) * 0.42;
 
-  t = loadTable("usage.csv", "header");
+t = loadTable("data/usage.csv", "header");
   if (t == null || t.getRowCount() == 0) exit();
 
   apps = getAppColumns(t);
